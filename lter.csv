@@ -1,0 +1,506 @@
+Site,Year,Species
+Site A1,2013,Achillea millefolium var. occidentalis (Achillea lanulosa)
+Site A1,2013,Agropyron cristatum+ 
+Site A1,2013,Antennaria alpina+
+Site A1,2013,Antennaria parvifolia 
+Site A1,2013,Antennaria pulcherrima+ 
+Site A1,2013,Apiaceae sp. 1 
+Site A1,2013,Arctostaphylos uva-ursi*
+Site A1,2013,Artemesia frigida
+Site A1,2013,Astragalus tenellus+ 
+Site A1,2013,Boraginaceae sp. 1
+Site A1,2013,Bouteloua gracilis+
+Site A1,2013,Bromus tectorum
+Site A1,2013,Carex pensylvanica ssp. heliophila 
+Site A1,2013,Caryophyllaceae sp. 1
+Site A1,2013,Ceanothus fendleri*+ 
+Site A1,2013,Cerastium strictum 
+Site A1,2013,Critesion brachyantherum+
+Site A1,2013,Delphinium nuttallianum 
+Site A1,2013,Elymus elymoides (Elymus longifolius)
+Site A1,2013,Eriogonum umbellatum 
+Site A1,2013,Geranium caespitosum
+Site A1,2013,Geum rossii+
+Site A1,2013,Hesperostipa comata+
+Site A1,2013,Heterotheca villosa
+Site A1,2013,Holodiscus dumosus+
+Site A1,2013,Jamesia americana* 
+Site A1,2013,Juniperus communis* 
+Site A1,2013,Linum usitatissimum+
+Site A1,2013,Lomatium dissectum var. multifidum+
+Site A1,2013,Mertensia lanceolata
+Site A1,2013,Pascopyrum smithii+
+Site A1,2013,Penstemon sp. 1
+Site A1,2013,Poa compressa 
+Site A1,2013,Poaceae sp. 1 
+Site A1,2013,Potentilla pensylvanica var.
+Site A1,2013,paucijuga+
+Site A1,2013,Psathrostachys juncea+
+Site A1,2013,Pseudocymopterus montanus+
+Site A1,2013,Ribes cereum* 
+Site A1,2013,Rubus parviflorus+
+Site A1,2013,Salvia sp. 1 
+Site A1,2013,Solidago missouriensis
+Site A1,2013,Stanleya pinnata+
+Site A1,2013,Symphyotrichum porter+
+Site A1,2013,Tragopogon dubius
+Site A1,2013,Verbascum thapsus
+Site A1,1996,Achillea lanulosa 
+Site A1,1996,Aletes acaulis
+Site A1,1996,Allium cernuum 
+Site A1,1996,Anisantha tectorum (Bromus tectorum)
+Site A1,1996,Antennaria parvifolia 
+Site A1,1996,Arctostaphylos uva-ursi* 
+Site A1,1996,Artemesia frigida 
+Site A1,1996,Artemesia ludoviciana
+Site A1,1996,Boechera drummondii
+Site A1,1996,Boechera divaricarpa
+Site A1,1996,Campanula rotundifolia 
+Site A1,1996,Carex pensylvanica ssp. heliophila
+Site A1,1996,Cerastium strictum 
+Site A1,1996,Chenopodium fremontii 
+Site A1,1996,Collinsia parviflora 
+Site A1,1996,Delphinium nuttallianum 
+Site A1,1996,Drymocallis fissa 
+Site A1,1996,Elymus canadensis
+Site A1,1996,Elymus longifolius 
+Site A1,1996,Eriogonum umbellatum 
+Site A1,1996,Gaillardia aristata 
+Site A1,1996,Gayophytum sp. 
+Site A1,1996,Geranium caespitosum 
+Site A1,1996,Harbouria trachypyleura 
+Site A1,1996,Heterotheca villosa 
+Site A1,1996,Jamesia americana* 
+Site A1,1996,Juniperus communis* 
+Site A1,1996,Leucopoa kingii
+Site A1,1996,Liatris punctata 
+Site A1,1996,Mertensia lanceolata 
+Site A1,1996,Muhlenbergia montana
+Site A1,1996,Penstemon virens
+Site A1,1996,Phacelia heterophylla
+Site A1,1996,Poa compressa
+Site A1,1996,Ribes cereum*
+Site A1,1996,Scutellaria brittonii
+Site A1,1996,Senecio integerrimus
+Site A1,1996,Solidago missouriensis
+Site A1,1996,Tithymalus brachyceras
+Site A1,1996,Tragopogon dubius
+Site A1,1996,Verbascum thapsus
+Site A1,1981,Achillea lanulosa
+Site A1,1981,Amelanchier alnifolia*
+Site A1,1981,Anisantha tectorum (Bromus tectorum)
+Site A1,1981,Antennaria parvifolia
+Site A1,1981,Arctostaphylos uva-ursi*
+Site A1,1981,Artemesia ludoviciana
+Site A1,1981,Aster porter
+Site A1,1981,Campanula rotundifolia
+Site A1,1981,Carex pensylvanica ssp. heliophila
+Site A1,1981,Chenopodium atrovirens
+Site A1,1981,Collinsia parviflora
+Site A1,1981,Delphinium nuttallianum
+Site A1,1981,Drymocallis fissa
+Site A1,1981,Elymus longifolius
+Site A1,1981,Eriogonum umbellatum
+Site A1,1981,Gaillardia aristata
+Site A1,1981,Gayophytum nuttallii
+Site A1,1981,Geranium caespitosum
+Site A1,1981,Harbouria trachypleura
+Site A1,1981,Heterotheca villosa 
+Site A1,1981,Juniperus communis*
+Site A1,1981,Lesquerella montana
+Site A1,1981,Leucocrinum montanum
+Site A1,1981,Leucopoa kingii
+Site A1,1981,Liatris punctata
+Site A1,1981,Mertensia lanceolata 
+Site A1,1981,Muhlenbergia montana 
+Site A1,1981,Penstemon virens
+Site A1,1981,Phacelia heterophylla
+Site A1,1981,Poa agassizensis
+Site A1,1981,Poa fendleriana
+Site A1,1981,Ribes cereum*
+Site A1,1981,Scutellaria brittonii
+Site A1,1981,Senecio fendleri
+Site A1,1981,Senecio integerrimus
+Site A1,1981,Solidago missouriensis
+Site A1,1981,Stipa comata
+Site A1,1981,Tithymalus brachyceras
+Site A1,1981,Tragopogon dubius
+Site A1,1981,Verbascum thapsus
+Site B1,2013,Achillea millefolium var. occidentalis (Achillea lanulosa)
+Site B1,2013,Allium cernuum 
+Site B1,2013,Antennaria parvifolia 
+Site B1,2013,Arctostaphylos uva-ursi*
+Site B1,2013,Artemesia frigida+ 
+Site B1,2013,Artemesia ludoviciana 
+Site B1,2013,Artemesia sp. 1
+Site B1,2013,Artemesia sp. 2
+Site B1,2013,Asteraceae sp. 2
+Site B1,2013,Astragalus adsurgens var. robustior
+Site B1,2013,Astragalus alpinus+ Astragalus tenellus
+Site B1,2013,Bouteloua gracilis+ Bromus japonicus+
+Site B1,2013,Bromus tectorum
+Site B1,2013,Carex concinna+
+Site B1,2013,Carex pensylvanica ssp. heliophila
+Site B1,2013,Caryophyllaceae sp. 1 
+Site B1,2013,Chenopodium fremontii 
+Site B1,2013,Critesion brachyantherum+ 
+Site B1,2013,Delphinium nuttallianum
+Site B1,2013,Dryopteris expansa+
+Site B1,2013,Elymus canadensis+
+Site B1,2013,Elymus elymoides (Elymus longifolius)
+Site B1,2013,Epilobium branchycarpum+
+Site B1,2013,Erigeron colo-mexicanus
+Site B1,2013,Erigeron compositus 
+Site B1,2013,Eriogonum umbellatum 
+Site B1,2013,Erysimum capitatum
+Site B1,2013,Geranium caespitosum
+Site B1,2013,Gymnosteris parvula+
+Site B1,2013,Heterotheca villosa
+Site B1,2013,Juniperus communis*
+Site B1,2013,Linum usitatissimum+
+Site B1,2013,Lomatium dissectum var. multifidum+
+Site B1,2013,Lupinus argenteus 
+Site B1,2013,Machaeranthera pattersonii+ 
+Site B1,2013,Mertensia lanceolata 
+Site B1,2013,Packera fendleri 
+Site B1,2013,Pascopyrum smithii+ 
+Site B1,2013,Penstemon sp. 1
+Site B1,2013,Penstemon sp. 2
+Site B1,2013,Phacelia heterophylla 
+Site B1,2013,Plantago major+
+Site B1,2013,Poa compressa
+Site B1,2013,Poaceae sp. 1 
+Site B1,2013,Polygonaceae sp. 1 
+Site B1,2013,Psathrostachys juncea+
+Site B1,2013,Pseudocymopterus montanus+ 
+Site B1,2013,Pteridophyta sp. 1
+Site B1,2013,Ribes cereum*
+Site B1,2013,Salvia sp. 1
+Site B1,2013,Sedum lanceolatum 
+Site B1,2013,Solidago missouriensis+ 
+Site B1,2013,Solidago multiradiata
+Site B1,2013,Solidago sp. 1
+Site B1,2013,Stanleya pinnata+ 
+Site B1,2013,Symphyotrichum porter+
+Site B1,2013,Tragopogon dubius+
+Site B1,2013,Unknown species 1
+Site B1,2013,Unknown species 2 
+Site B1,2013,Unknown species 3 
+Site B1,2013,Verbascum thapsus+ 
+Site B1,2013,Veronica scutellata+
+Site B1,2013,Woodsia oregana+
+Site B1,2013,Wyethia amplexicaulis+
+Site B1,1996,Achillea lanulosa
+Site B1,1996,Aletes acaulis
+Site B1,1996,Amerosedum lanceolatum
+Site B1,1996,Androsace septentrionalis
+Site B1,1996,Anisantha tectorum (Bromus tectorum)
+Site B1,1996,Antennaria parvifolia
+Site B1,1996,Arctostaphylos uva-ursi*
+Site B1,1996,Artemisia ludoviciana
+Site B1,1996,Astragalus adsurgens var. robustior
+Site B1,1996,Astragalus tenellus
+Site B1,1996,Boechera sp.
+Site B1,1996,Carex pensylvanica ssp. heliophila
+Site B1,1996,Collinsia parviflora
+Site B1,1996,Delphinium nuttallianum
+Site B1,1996,Draba streptocarpa
+Site B1,1996,Drymocallis fissa
+Site B1,1996,Elymus longifolius
+Site B1,1996,Erigeron colo-mexicanus
+Site B1,1996,Eriogonum umbellatum
+Site B1,1996,Erysimum capitatum 
+Site B1,1996,Frasera speciosa
+Site B1,1996,Gaillardia aristata
+Site B1,1996,Gayophytum sp.
+Site B1,1996,Geranium caespitosum
+Site B1,1996,Gilia pinnatifida
+Site B1,1996,Harbouria trachyplerura
+Site B1,1996,Heterotheca villosa 
+Site B1,1996,Juniperus communis* 
+Site B1,1996,Koeleria macrantha
+Site B1,1996,Lesquerella montana
+Site B1,1996,Leucopoa kingii
+Site B1,1996,Lupinus argenteus
+Site B1,1996,Mertensia lanceolata
+Site B1,1996,Oreocarya virgata
+Site B1,1996,Oxytropis multiceps
+Site B1,1996,Packera fendleri
+Site B1,1996,Penstemon glaber
+Site B1,1996,Penstemon virens
+Site B1,1996,Phacelia heterophylla
+Site B1,1996,Poa compressa
+Site B1,1996,Ribes cereum*
+Site B1,1996,Scutellaria brittonii
+Site B1,1996,Selaginella densa
+Site B1,1996,Solidago multiradiata
+Site B1,1981,Achillea lanulosa
+Site B1,1981,Aletes acaulis
+Site B1,1981,Allium cernuum
+Site B1,1981,Arabis fendleri
+Site B1,1981,Arctostaphylos uva- ursi*
+Site B1,1981,Artemesia ludoviciana
+Site B1,1981,Aster porteri
+Site B1,1981,Astragalus adsurgens var. robustior
+Site B1,1981,Astragalus shortianus
+Site B1,1981,Astragalus tenellus
+Site B1,1981,Bahia dissecta
+Site B1,1981,Carex pensylvanica ssp. heliophila
+Site B1,1981,Chenopodium fremontii
+Site B1,1981,Collinsia parviflora
+Site B1,1981,Delphinium sp.
+Site B1,1981,Drymocallis fissa
+Site B1,1981,Erigeron compositus
+Site B1,1981,Eriogonum umbellatum
+Site B1,1981,Erysimum asperum
+Site B1,1981,Gaillardia aristata 
+Site B1,1981,Gayophytum nuttallii
+Site B1,1981,Geranium caespitosum
+Site B1,1981,Gilia pinnatifida
+Site B1,1981,Harbouria trachypleura
+Site B1,1981,Heterotheca fulcrata
+Site B1,1981,Koeleria macrantha
+Site B1,1981,Lesquerella montana 
+Site B1,1981,Leucopoa kingii 
+Site B1,1981,Lupinus argenteus
+Site B1,1981,Mertensia lanceolata
+Site B1,1981,Muhlenbergia montana
+Site B1,1981,Packera fendleri
+Site B1,1981,Penstemon virens
+Site B1,1981,Phacelia heterophylla
+Site B1,1981,Poa fendleriana
+Site B1,1981,Pulsatilla patens ssp. multifida
+Site B1,1981,Ribes cereum*
+Site B1,1981,Scutellaria brittonii
+Site B1,1981,Sedum lanceolatum
+Site B1,1981,Selaginella densa
+Site B1,1981,Solidago multiradiata
+Site B1,1981,Stipa lettermanii
+Site C1,2013,Achillea millefolium var. occidentalis (Achillea lanulosa)
+Site C1,2013,Allium sp. 1
+Site C1,2013,Antennaria microphylla (Antennaria rosea)
+Site C1,2013,Anticlea elegans 
+Site C1,2013,Asteraceae sp. 3 
+Site C1,2013,Campanula rotundifolia 
+Site C1,2013,Carex concinna+
+Site C1,2013,Carex foenea
+Site C1,2013,Chamerion danielsii
+Site C1,2013,Cornus sericea ssp. sericea+
+Site C1,2013,Delphinium barbeyi+
+Site C1,2013,Distegia involucrata*
+Site C1,2013,Fragaria virginiana ssp. glauca
+Site C1,2013,Geranium caespitosum+ 
+Site C1,2013,Juncus arcticus ssp. ater
+Site C1,2013,Lomatium dissectum var. multifidum+ 
+Site C1,2013,Mertensia ciliata
+Site C1,2013,Muhlenbergia montana+ 
+Site C1,2013,Paxistma myrsinites+
+Site C1,2013,Pedicularis racemosa ssp. alba+ 
+Site C1,2013,Penstemon whippleanus
+Site C1,2013,Poaceae sp. 2
+Site C1,2013,Potentilla pulcherrima
+Site C1,2013,Pseudocymopterus montanus
+Site C1,2013,Pyrola chlorantha+
+Site C1,2013,Rosa woodsii
+Site C1,2013,Rubus idaeus ssp. melanolasius+
+Site C1,2013,Salix planifolia+
+Site C1,2013,Salix reticulata+
+Site C1,2013,Senecio fremontii var. blitoides+
+Site C1,2013,Taraxacum officinale 
+Site C1,2013,Unknown species 4
+Site C1,2013,Unknown species 5 
+Site C1,2013,Unknown species 6
+Site C1,2013,Unknown species 7 
+Site C1,2013,Unknown species 8
+Site C1,2013,Unknown species 9
+Site C1,2013,Unknown species 10 
+Site C1,2013,Wyethia amplexicaulis+
+Site C1,1996,Achillea lanulosa
+Site C1,1996,Amerosedum lanceolatum
+Site C1,1996,Antennaria rosea
+Site C1,1996,Anticlea elegans
+Site C1,1996,Calamagrostis canadensis
+Site C1,1996,Campanula rotundifolia
+Site C1,1996,Cardamine cordifolia
+Site C1,1996,Carex foenea
+Site C1,1996,Chamerion danielsii
+Site C1,1996,Distegia involucrata*
+Site C1,1996,Dodecatheon pulchellum
+Site C1,1996,Erigeron eximius
+Site C1,1996,Fragaria virginiana ssp. glauca
+Site C1,1996,Hydrophyllum fendleri
+Site C1,1996,Juncus arcticus ssp. ater
+Site C1,1996,Juniperus communis*
+Site C1,1996,Lupinus argenteus
+Site C1,1996,Maianthemum amplexicaule
+Site C1,1996,Orthilla secunda ssp. obtusata
+Site C1,1996,Osmorhiza depauperata 
+Site C1,1996,Oxypolis fendleri
+Site C1,1996,Penstemon glaber
+Site C1,1996,Penstemon whippleanus
+Site C1,1996,Pentaphylloides floribunda*
+Site C1,1996,Potentilla pulcherrima
+Site C1,1996,Pseudocymopteris montanus
+Site C1,1996,Pyrola minor
+Site C1,1996,Rosa woodsii
+Site C1,1996,Selaginella densa
+Site C1,1996,Senecio triangularis
+Site C1,1996,Solidago multiradiata
+Site C1,1996,Taraxacum officinale
+Site C1,1996,Vaccinium myrtillus ssp. oreophilium*
+Site C1,1981,Achillea lanulosa
+Site C1,1981,Aletes acaulis
+Site C1,1981,Androsace septentrionalis
+Site C1,1981,Antennaria parvifolia
+Site C1,1981,Antennaria rosea
+Site C1,1981,Anticlea elegans
+Site C1,1981,Aster foliaceus
+Site C1,1981,Bistorta sp.
+Site C1,1981,Boechera drummondii
+Site C1,1981,Calamagrostis canadensis
+Site C1,1981,Caltha leptosepala
+Site C1,1981,Campanula rotundifolia
+Site C1,1981,Carex occidentalis
+Site C1,1981,Chamerion danielsii
+Site C1,1981,Chenopodium sp.
+Site C1,1981,Clementsia rhodantha
+Site C1,1981,Cystopteris fragilis
+Site C1,1981,Danthonia parryi
+Site C1,1981,Distegia involucrata
+Site C1,1981,Dodecatheon pulchellum 
+Site C1,1981,Draba streptocarpa
+Site C1,1981,Elymus sp.
+Site C1,1981,Fragaria ovalis
+Site C1,1981,Gayophytum nuttallii
+Site C1,1981,Harbouria trachypleura
+Site C1,1981,Juncus arcticus 
+Site C1,1981,Juniperus communis*
+Site C1,1981,Lupinus argenteus
+Site C1,1981,Mertensia ciliata
+Site C1,1981,Orthilia secunda
+Site C1,1981,Oxypolis fendleri
+Site C1,1981,Rosa acicularis
+Site C1,1981,Penstemon whippleanus
+Site C1,1981,Pentaphylloides floribunda*
+Site C1,1981,Poa nemoralis ssp. interior
+Site C1,1981,Potentilla pulcherrima
+Site C1,1981,Pseudocymopterus montanus
+Site C1,1981,Pyrola minor
+Site C1,1981,Sedum lanceolatum
+Site C1,1981,Selaginella densa
+Site C1,1981,Senecio triangularis
+Site C1,1981,Silene scouleri ssp. hallii
+Site C1,1981,Smilacina sp.
+Site C1,1981,Solidago multiradiata
+Site C1,1981,Taraxacum officinale
+Site C1,1981,Thermopsis divaricarpa
+Site C1,1981,Trisetum spicatum
+Site C1,1981,Vaccinium myrtillus ssp. oreophilum*
+Site C1,1981,Veronica wormskjoldii
+Site D1,2013,Acomastylis rossii ssp. turbinate
+Site D1,2013,Antennaria microphylla+ 
+Site D1,2013,Anticlea elegans
+Site D1,2013,Bistorta bistortoides 
+Site D1,2013,Bistorta vivipara 
+Site D1,2013,Campanula uniflora 
+Site D1,2013,Carex albonigra
+Site D1,2013,Castilleja occidentalis+ 
+Site D1,2013,Erigeron simplex+
+Site D1,2013,Eritrichum aretoides 
+Site D1,2013,Erysimum capitatum 
+Site D1,2013,Fabaceae sp. 1
+Site D1,2013,Fabaceae sp. 2 
+Site D1,2013,Fabaceae sp. 3
+Site D1,2013,Gentiana pneumonanthe+
+Site D1,2013,Kobresia myosuroides 
+Site D1,2013,Lidia obtusiloba 
+Site D1,2013,Lloydia serotina
+Site D1,2013,Mertensia lanceolata 
+Site D1,2013,Oreoxis alpina
+Site D1,2013,Poa glauca ssp. rupicola
+Site D1,2013,Potentilla nivea
+Site D1,2013,Potentilla rubricaulis 
+Site D1,2013,Rydbergia grandiflora 
+Site D1,2013,Stellaria longipes+ 
+Site D1,2013,Taraxacum ceratophorum 
+Site D1,2013,Trifolium dasyphyllum
+Site D1,2013,Trisetum spicatum ssp. congdonii
+Site D1,2013,Unknown species 11
+Site D1,2013,Unknown species 12 
+Site D1,2013,Unknown species 13
+Site D1,1996,Acetosella vulgaris 
+Site D1,1996,Acomastylis rossi ssp. turbinata
+Site D1,1996,Artemesia scopulorum
+Site D1,1996,Besseya alpina
+Site D1,1996,Bistorta bistortoides
+Site D1,1996,Campanula uniflora
+Site D1,1996,Carex albonigra
+Site D1,1996,Carex rupestris ssp. drummondiana
+Site D1,1996,Carex scopulorum 
+Site D1,1996,Cerastium beeringianum ssp. earlei
+Site D1,1996,Cystopteris fragilis 
+Site D1,1996,Eremogone fendleri 
+Site D1,1996,Eritrichum aretioides
+Site D1,1996,Erysimum capitatum 
+Site D1,1996,Helicotrichon mortonianum
+Site D1,1996,Kobresia myosuroides 
+Site D1,1996,Lidia obtusiloba 
+Site D1,1996,Lloydia serotina 
+Site D1,1996,Mertensia lanceolata 
+Site D1,1996,Oreoxis alpina
+Site D1,1996,Phlox sibirica ssp. pulvinata 
+Site D1,1996,Poa glauca ssp. rupicola 
+Site D1,1996,Polemonium viscosum 
+Site D1,1996,Potentilla nivea
+Site D1,1996,Potentilla ovina 
+Site D1,1996,Potentilla rubricaulis 
+Site D1,1996,Rhodiola integrifolia
+Site D1,1996,Rydbergia grandiflora
+Site D1,1996,Selaginella densa 
+Site D1,1996,Silene acaulis ssp. subacaulescens
+Site D1,1996,Taraxcum ceratophorum
+Site D1,1996,Tonestus pygmaeus
+Site D1,1996,Trisetum spicatum ssp. congdonii
+Site D1,1996,Trifolium dasyphyllum
+Site D1,1996,Trifolium nanum
+Site D1,1981,Acetosella vulgaris 
+Site D1,1981,Acomastylis rossii ssp. turbinata
+Site D1,1981,Anticlea elegans 
+Site D1,1981,Arenaria fendleri 
+Site D1,1981,Artemesia scopulorum 
+Site D1,1981,Besseya alpina 
+Site D1,1981,Bistorta bistortoides
+Site D1,1981,Bistorta vivipara 
+Site D1,1981,Calamagrostis purpurascens
+Site D1,1981,Campanula uniflora
+Site D1,1981,Carex albonigra
+Site D1,1981,Carex arapahoensis
+Site D1,1981,Carex norvegica
+Site D1,1981,Carex norvegica ssp. norvegica
+Site D1,1981,Carex rupestris
+Site D1,1981,Cerastium beeringianum ssp. earlei
+Site D1,1981,Cystopteris fragilis 
+Site D1,1981,Danthonia intermedia 
+Site D1,1981,Eritrichium aretoides 
+Site D1,1981,Erysimum capitatum 
+Site D1,1981,Helicotrichon mortonianum 
+Site D1,1981,Kobresia myosuroides 
+Site D1,1981,Lewisia pygmaeae
+Site D1,1981,Lloydia serotina 
+Site D1,1981,Mertensia viridis 
+Site D1,1981,Lidia obtusiloba 
+Site D1,1981,Oreoxis alpina
+Site D1,1981,Phlox sibirica ssp. pulvinata 
+Site D1,1981,Poa glauca
+Site D1,1981,Polemonium viscosum 
+Site D1,1981,Potentilla nivea
+Site D1,1981,Potentilla rubricaulis
+Site D1,1981,Rydbergia grandiflora
+Site D1,1981,Saxifraga rhomboidea
+Site D1,1981,Selaginella densa
+Site D1,1981,Silene acaulis ssp. subacaulescens
+Site D1,1981,Taraxacum ceratophorum
+Site D1,1981,Thlaspi montanum
+Site D1,1981,Tonestus pygmaeus
+Site D1,1981,Trifolium dasyphyllum
+Site D1,1981,Trifolium nanum
